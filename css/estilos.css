@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;1,300&display=swap');
+img{
+    object-fit: scale-down;
+    width: 800px;
+    height: 600px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.azul{
+    color: blue;
+}
+
